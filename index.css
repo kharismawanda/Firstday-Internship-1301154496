@@ -1,0 +1,83 @@
+body {
+    background-color: pink;
+    background-image: url("download.png");
+}
+
+div {
+    text-align: justify;
+}
+h4	{
+	font-size :50px;
+	color : pink;
+}
+img {
+	width : 300px;
+	margin : 0 auto;
+	display : block;
+	padding : 10px,20px,20px,10px;
+	background-color: red;
+}
+
+p {
+	background-color: grey;
+	font-size : 4cm;
+	font-family : "SERIF";
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
+    border-left :60px;
+    text-align: center;
+    color : white;
+    font-family : spirax;
+}
+
+
+h1 {
+	font-size : 0,2cm;
+	text-align : right;
+	color : brown;
+	letter-spacing: 3px;
+	font-family : spirax;
+	padding: 50px 30px 50px 80px;
+	border-right :60px;
+	background-color: pink;
+}
+
+
+h1.italic {
+	font-style : italic;
+}
+
+h2 {
+	font-size : 0,4;
+	text-align : center;
+	color : green;
+	letter-spacing: 2px;
+	font-family : cursive;
+	padding: 50px 30px 50px 80px;
+	border-right :60px;
+	background-color: yellow;
+}
+
+h2.normal {
+	font-style : normal;
+}
+
+h3 {
+	font-size : 0,6;
+	text-align : left;
+	color : red;
+	letter-spacing: 1px;
+	font-family : roboto;
+	padding: 50px 30px 50px 80px;
+	border-full :60px;
+	background-color: brown;
+}
+
+h3.oblique {
+	font-style : oblique;
+}
+
+
+
